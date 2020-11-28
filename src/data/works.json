@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"title": "1 Сайт онлайн школы",
+		"skills": "1 HTML, CSS, JavaScript",
+		"photo": "slider-1.jpg",
+		"link": "//yandex.com",
+		"desc": "Lorem text Lorem textLorem textLorem textLorem textLorem textLorem textLorem textLorem textLorem textLorem text!"
+	},
+	{
+		"id": 2,
+		"title": "2 Сайт онлайн школы",
+		"skills": "2 HTML, CSS, JavaScript",
+		"photo": "slider-2.jpg",
+		"link": "//google.com",
+		"desc": "Lorem text Lorem textLorem textLorem textLorem textLorem textLorem textLorem textLorem textLorem textLorem text!"
+	},
+	{
+		"id": 3,
+		"title": "3 Сайт онлайн школы",
+		"skills": "3 HTML, CSS, JavaScript",
+		"photo": "slider-3.jpg",
+		"link": "//yahoo.com",
+		"desc": "Lorem text Lorem textLorem textLorem textLorem textLorem textLorem textLorem textLorem textLorem textLorem text!"
+	}
+]
